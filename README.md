@@ -1,9 +1,9 @@
-#Milestone 1: Static Interactive Resume Builder (100 Points) 
+# Milestone 1: Static Interactive Resume Builder (100 Points) 
 
-Objective:
+## Objective:
 Build a static resume using HTML, CSS, and TypeScript. 
 
-Requirements: 
+## Requirements: 
  Create a static resume with sections like: 
 o Personal Information (Name, Contact Details, Profile Picture) 
 o Education 
@@ -13,7 +13,7 @@ o Work Experience
 "Skills" section or other sections. 
 
 
-Scoring Breakdown: 
+## Scoring Breakdown: 
  HTML Structure and Completeness (40 points):
 o Are all sections (Personal Info, Education, Skills, etc.) clearly created using proper 
 HTML structure? 
